@@ -1,0 +1,1 @@
+In React Router Dom v6, a common issue arises when navigating to a route that doesn't exist.  Instead of displaying a 404 page or a default fallback, the application might display nothing at all or render an unexpected component. This often happens due to improper use of the `useNavigate` hook or missing routes in the router configuration.
